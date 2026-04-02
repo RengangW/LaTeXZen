@@ -53,7 +53,7 @@
 
 **1. 克隆仓库**
 git clone [https://github.com/RengangW/LaTeXZen.git](https://github.com/RengangW/LaTeXZen.git)
-cd 你的项目名
+cd LaTexZen
 
 **2. 安装依赖库**
 建议使用虚拟环境，然后安装必要的依赖：
