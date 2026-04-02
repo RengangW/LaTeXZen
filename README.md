@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="[https://via.placeholder.com/800x450.png?text=Insert+Screenshot+Here](https://via.placeholder.com/800x450.png?text=Insert+Screenshot+Here)" alt="软件截图" width="800"/>
-  <p><i>（建议：在这里放一张展示“暖光护眼”主题和代码高亮的漂亮截图）</i></p>
+  
 </div>
 
 ## ✨ 核心特性 (Features)
@@ -52,7 +52,7 @@
 目前本项目基于 Python 与 PyQt5 开发。只需简单的几步即可在本地运行：
 
 **1. 克隆仓库**
-git clone [https://github.com/你的用户名/你的项目名.git](https://github.com/你的用户名/你的项目名.git)
+git clone [https://github.com/RengangW/LaTeXZen.git](https://github.com/RengangW/LaTeXZen.git)
 cd 你的项目名
 
 **2. 安装依赖库**
@@ -62,7 +62,7 @@ pip install PyQt5 pyspellchecker
 *(注意：编译功能需要你本地已安装 TeX 运行环境，如 TeX Live 或 MiKTeX)*
 
 **3. 运行程序**
-python texreader1.5.py
+python main.py
 
 ---
 
