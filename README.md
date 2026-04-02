@@ -22,10 +22,7 @@
 
 **清阅 (LaTeX Zen Editor)** 诞生于一个纯粹的理念：**把干扰降到最低，让思想自然流淌。** 它不是用来替代专业的全功能 IDE，而是为你提供一个**护眼、专注、清爽的“心流 (Flow)”写作环境**。它可以无缝折叠 LaTeX 语法噪音，并提供一键编译预览。
 
-<div align="center">
-  <img src="[https://via.placeholder.com/800x450.png?text=Insert+Screenshot+Here](https://via.placeholder.com/800x450.png?text=Insert+Screenshot+Here)" alt="软件截图" width="800"/>
-  
-</div>
+
 
 ## ✨ 核心特性 (Features)
 
