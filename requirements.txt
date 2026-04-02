@@ -1,0 +1,2 @@
+PyQt5>=5.15.0
+pyspellchecker>=0.7.0
